@@ -1,0 +1,44 @@
+[
+    {
+        "username": "harshitha",
+        "score": 3,
+        "total": 3,
+        "percentage": 100.0
+    },
+    {
+        "username": "bindhu",
+        "score": 4,
+        "total": 5,
+        "percentage": 80.0
+    },
+    {
+        "username": "srija",
+        "score": 4,
+        "total": 5,
+        "percentage": 80.0
+    },
+    {
+        "username": "R.Poojitha",
+        "score": 3,
+        "total": 5,
+        "percentage": 60.0
+    },
+    {
+        "username": "R.Poojitha",
+        "score": 5,
+        "total": 5,
+        "percentage": 100.0
+    },
+    {
+        "username": "GREESHMA",
+        "score": 5,
+        "total": 5,
+        "percentage": 100.0
+    },
+    {
+        "username": "MANASA",
+        "score": 4,
+        "total": 5,
+        "percentage": 80.0
+    }
+]
